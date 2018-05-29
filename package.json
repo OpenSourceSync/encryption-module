@@ -1,0 +1,14 @@
+{
+  "name": "encryption-module",
+  "version": "1.0.0",
+  "description": "Encryption module for OSS",
+  "main": "encryptionModule.js",
+  "repository": "https://github.com/OpenSourceSync/encryption-module.git",
+  "author": "Ali Nauman <ali60351@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "node-rsa": "^1.0.0"
+  }
+}
